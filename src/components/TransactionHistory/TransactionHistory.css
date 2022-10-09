@@ -1,0 +1,28 @@
+.transaction-history{
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.transaction-history thead{
+    background-color: cadetblue;
+    text-transform: uppercase;
+    color: white;
+}
+
+.transaction-history th, .transaction-history tbody tr td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    width: 25%;
+}
+
+.transaction-history tr:nth-child(even){
+    background-color: lightgray;
+}
+
+.transaction-history tbody{
+    text-indent: 40%;
+}

@@ -1,0 +1,34 @@
+[
+    {
+      "avatar": "https://thehollywooddigest.com/wp-content/uploads/2018/11/1200px-Idris_Elba-4580_cropped-e1541540926505.jpg",
+      "name": "Mango",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://media1.popsugar-assets.com/files/thumbor/ftXEXT5MYtir783ol48vj-uGOtI/425x0:2695x2270/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2022/01/08/920/n/1922398/d752312d61d9fc8e821b75.70392995_/i/michael-b-jordan-reaction-sidney-poitier-death.jpg",
+      "name": "Kiwi",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzTNxQ3RS59vPKNgk-Ns-RX-UKJqpZ4oSgnQdUSpanRC79F8n92W4C_qmqodJg70LwEs&usqp=CAU",
+      "name": "Ajax",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://theoverwhelmedbrain.com/blog/Wordpress/wp-content/uploads/2019/03/fake-smile-300x.jpg",
+      "name": "Jay",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyMZ9N6ZexxBXaWQ_Esm1ovQqUF2Dx4VuPMcGpa7kNyoG4SPhDqhrGhrkFWeMKRJqNNmY&usqp=CAU",
+      "name": "Poly",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
+  
+  
