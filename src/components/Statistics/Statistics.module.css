@@ -19,7 +19,7 @@
 
 }
 
-.stat-list{
+.statlist{
     width: 250px;
     height: 60px;
     display: flex;
@@ -29,39 +29,39 @@
     outline: 1px solid lightgray;
 }
 
-.stat-list li {
+.statlist li {
     width: 100%;
     display: flex;
     flex-direction: column;
 }
 
-.stat-list li:nth-child(1){
+.statlist li:nth-child(1){
     background-color: brown;
     border-radius: 0 0 0 5px;
 }
 
-.stat-list li:nth-child(2){
+.statlist li:nth-child(2){
     background-color: blueviolet;
 }
 
-.stat-list li:nth-child(3){
+.statlist li:nth-child(3){
     background-color: cadetblue;
 }
 
-.stat-list li:nth-child(4){
+.statlist li:nth-child(4){
     background-color: chocolate;
 }
 
-.stat-list li:nth-child(5){
+.statlist li:nth-child(5){
     background-color: tomato;
     border-radius: 0 0 5px 0;
 }
 
-.stat-list .label{
+.statlist .label{
     color: white;
 }
 
-.stat-list .percentage{
+.statlist .percentage{
     color: white;
 }
 /*end statistics css*/

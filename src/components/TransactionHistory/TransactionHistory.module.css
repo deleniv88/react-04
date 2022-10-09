@@ -1,4 +1,4 @@
-.transaction-history{
+.transactionhistory{
     width: 75%;
     margin: 0 auto;
     margin-top: 20px;
@@ -7,22 +7,22 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
-.transaction-history thead{
+.transactionhistory thead{
     background-color: cadetblue;
     text-transform: uppercase;
     color: white;
 }
 
-.transaction-history th, .transaction-history tbody tr td{
+.transactionhistory th, .transactionhistory tbody tr td{
     border: 1px solid #ddd;
     padding: 8px;
     width: 25%;
 }
 
-.transaction-history tr:nth-child(even){
+.transactionhistory tr:nth-child(even){
     background-color: lightgray;
 }
 
-.transaction-history tbody{
+.transactionhistory tbody{
     text-indent: 40%;
 }
